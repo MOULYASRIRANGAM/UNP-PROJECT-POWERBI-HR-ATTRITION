@@ -1,5 +1,5 @@
 # UNP-Project_BI-with-Power-BI_HR DATA
-Completed this project as part of my BI with PowerBI course with United Network of ;Professionals(UNP)
+Completed this project as part of my BI with PowerBI course with United Network of Professionals(UNP)
 
 Key highlights:
 
@@ -9,4 +9,4 @@ Key highlights:
 
 PBIX file Link:https://drive.google.com/file/d/1UdBgC797C6Uks7T-aFSIOCrnP-AeZZsB/view?usp=sharing
 PDF Link:https://drive.google.com/file/d/1LBJL-vsQ9B9YZ2X9QjS2wwnBxB78oQyQ/view?usp=sharing
-canvalink:https://www.canva.com/join/zxb-qbm-fgg
+canvalink:https://drive.google.com/file/d/1SQZqpIutBnx-Q-p7wgKPw0_VWT99JdDC/view?usp=sharing
