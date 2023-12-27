@@ -1,4 +1,4 @@
-# UNP PROJECT BI WITH POWERBI-HR DATA
+# UNP-project_BI-with-Power-BI_HR DATA
 Completed this project as part of my BI with PowerBI course with United Network of ;Professionals(UNP)
 
 Key highlights:
