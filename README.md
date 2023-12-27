@@ -9,4 +9,4 @@ Key highlights:
 
 PBIX file Link:https://drive.google.com/file/d/1UdBgC797C6Uks7T-aFSIOCrnP-AeZZsB/view?usp=sharing
 PDF Link:https://drive.google.com/file/d/1LBJL-vsQ9B9YZ2X9QjS2wwnBxB78oQyQ/view?usp=sharing
-canvalink:https://drive.google.com/file/d/1SQZqpIutBnx-Q-p7wgKPw0_VWT99JdDC/view?usp=sharing
+canvalink:https://www.canva.com/design/DAF4K9IadcA/ByLbIBaWfjEDLGKsadEErg/edit?utm_content=DAF4K9IadcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
